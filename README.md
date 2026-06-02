@@ -71,3 +71,7 @@ This project successfully demonstrates the design and simulation of a Digital FI
 
 ##Output
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/6ee8c380-04f3-4961-9d67-1000e5bc7d3b" />
+
+
+
